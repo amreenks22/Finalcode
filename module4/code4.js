@@ -43,6 +43,6 @@ var hdc = g_form.getValue('api_change_type_emergency');
 			return false;
 		}
 		
-		
+		}
 		
 	}
